@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Harviando",
 	"description": "A project that does something awesome and gonna teach me a lesson about back end development:D",
-	"keywords": [ "NodeJS", "Back End", "Server", "freecodecamp" ],
+	"keywords": [ "NodeJS", "Back End", "Server", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
